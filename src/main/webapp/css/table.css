@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+body{
+	background-color:aquamarine;
+}
+table{
+	
+	
+	
+	
+	
+	border-collapse: collapse;
+	background-color: aquamarine;
+}
+th{
+	color :orange;
+}
+td{
+	color:black;
+}
+.far{
+	color:red;
+}
+button{
+	
+	
+	background-color:blue;
+	color:white;
+	padding: 5px;
+	border-radius: 15%;
+}
+
+
+
+ul,li{
+	list-style: non;
+	display: inline-flex;
+	margin-top: 100px;
+	margin-left: 30px;
+}

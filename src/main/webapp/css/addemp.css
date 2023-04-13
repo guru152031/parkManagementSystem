@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+body{
+	
+background-image:url("../images/addemp.jpg");
+ 
+ 
+ 
+ 
+ 
+ 
+background-repeat:no-repeat;
+
+
+
+
+background-size:cover;
+ 
+}
+form{
+	margin-top: 150px;
+	margin-left:400px;
+	margin-right:400px;
+	background-color: #0080ff;
+	
+	background-image: url("../images/download.jpg");
+	background-repeat:no-repeat;
+
+
+
+
+background-size:1000px;
+}
+h1{
+	color:aqua;
+}
+#i{
+	color:maroon;
+}
+#j{
+	background-color: lime;
+	border-radius: 35%;
+}
+#a{
+	background-color: #0080ff;
+	border-radius: 35%;
+}
+#k{
+	color:green;
+}
+label{
+	color:maroon;
+}

@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+body{
+
+background-image:url("../images/index.jpg");
+ 
+background-repeat:no-repeat;
+background-size: 2000px;
+
+
+
+ 
+ 
+}
+
+h1{
+
+
+font-size: 100px;
+margin-top: 200px;
+color:white;
+ text-shadow: 5px 3px 5px ;
+ 
+
+}
+ 
+#i{
+	background-color:aqua;
+	font-size: 20px;
+	 
+	border-radius:35%;
+	margin-left: 1200px;
+ 
+}
+#j{
+	background-color:maroon;
+	border-radius:35%;
+	 
+	font-size:20px;
+	margin-left: 1200px;
+	margin-top: 50px;
+}
+
+
+#k{
+	font-size: 15px;
+}
